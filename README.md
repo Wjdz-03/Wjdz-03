@@ -1,6 +1,6 @@
 # Wang Bo（小王）
 
-智能应用开发工程师 · Java 工程底盘 × Python 智能体（RAG/Agent） × 联盟链应用 浙江师范大学 · 硕士研究生一年级（2026 级）· 金华
+智能应用开发工程师 · Java 工程底盘 × Python 智能体（RAG/Agent） × 联盟链应用 浙江师范大学 · 硕士研究生（2026级电子信息）· 金华
 [Bow2026@zjnu.edu.cn](mailto:Bow2026@zjnu.edu.cn) · [@Wjdz-03](https://github.com/Wjdz-03)
 
 ---
